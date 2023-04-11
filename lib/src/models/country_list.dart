@@ -44,6 +44,37 @@ class Countries {
 
   static List<Map<String, dynamic>> _countryList = [
     {
+      "num_code": "288",
+      "alpha_2_code": "GH",
+      "alpha_3_code": "GHA",
+      "en_short_name": "Ghana",
+      "nationality": "Ghanaian",
+      "dial_code": "+233",
+      "nameTranslations": {
+        "sk": "Ghana",
+        "se": "Ghana",
+        "pl": "Ghana",
+        "no": "Ghana",
+        "ja": "ガーナ",
+        "it": "Ghana",
+        "zh": "加纳",
+        "nl": "Ghana",
+        "de": "Ghana",
+        "fr": "Ghana",
+        "es": "Ghana",
+        "en": "Ghana",
+        "pt_BR": "Gana",
+        "sr-Cyrl": "Гана",
+        "sr-Latn": "Gana",
+        "zh_TW": "迦納",
+        "tr": "Gana",
+        "ro": "Ghana",
+        "ar": "غانا",
+        "fa": "غنا",
+        "yue": "加納"
+      }
+    },
+    {
       "num_code": "4",
       "alpha_2_code": "AF",
       "alpha_3_code": "AFG",
@@ -2552,37 +2583,6 @@ class Countries {
         "ar": "ألمانيا",
         "fa": "آلمان",
         "yue": "德國"
-      }
-    },
-    {
-      "num_code": "288",
-      "alpha_2_code": "GH",
-      "alpha_3_code": "GHA",
-      "en_short_name": "Ghana",
-      "nationality": "Ghanaian",
-      "dial_code": "+233",
-      "nameTranslations": {
-        "sk": "Ghana",
-        "se": "Ghana",
-        "pl": "Ghana",
-        "no": "Ghana",
-        "ja": "ガーナ",
-        "it": "Ghana",
-        "zh": "加纳",
-        "nl": "Ghana",
-        "de": "Ghana",
-        "fr": "Ghana",
-        "es": "Ghana",
-        "en": "Ghana",
-        "pt_BR": "Gana",
-        "sr-Cyrl": "Гана",
-        "sr-Latn": "Gana",
-        "zh_TW": "迦納",
-        "tr": "Gana",
-        "ro": "Ghana",
-        "ar": "غانا",
-        "fa": "غنا",
-        "yue": "加納"
       }
     },
     {
